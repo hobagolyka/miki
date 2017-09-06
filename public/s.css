@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+html{
+    font-family: 'Slabo 27px', serif;
+}
+
+body{
+    font-family: 'Slabo 27px', serif;
+    background-color: #2a2a2a;
+    color: gainsboro;
+    font-size: 16px;
+    padding-top: 50px;
+}
+
+img{
+    width: 100%;
+}
+
+#szolo{
+    width: 40px;
+}
+nav.navbar.navbar-default {
+    background-color: #2a2a2a;
+    border-color: #2a2a2a;
+    margin-bottom: 0px;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: white;
+    background-color: #333;
+}
+
+.r{
+    margin-bottom: 20px;
+    background-color: #333331;
+}
+
+
+.carousel-caption {
+    top: 40px;
+    font-size: 30px;
+}
+
+h4{
+    text-align: right;
+    color: dimgrey;
+}
+ #kapcsolat{
+     margin-bottom: 20px;
+ }
